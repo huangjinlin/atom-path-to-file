@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "a atom package for select path to create file",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-path-to-file",
+  "repository": "https://github.com/huangjinlin/atom-path-to-file",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
