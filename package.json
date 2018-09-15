@@ -1,7 +1,7 @@
 {
   "name": "atom-path-to-file",
   "main": "./lib/atom-path-to-file",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a atom package for select path to create file",
   "keywords": [],
   "repository": "https://github.com/huangjinlin/atom-path-to-file",
