@@ -1,8 +1,8 @@
 {
   "name": "atom-path-to-file",
   "main": "./lib/atom-path-to-file",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "a atom package for select path to create file",
   "keywords": [],
   "repository": "https://github.com/atom/atom-path-to-file",
   "license": "MIT",

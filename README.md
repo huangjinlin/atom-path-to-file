@@ -1,7 +1,7 @@
 <!--not to html-->
 # atom-path-to-file
 
-a atom package for select path to file
+a atom package for select path to create file
 
 ## features
 - select path string,press "Ctrl+Shift+P",press "path-to-file:vue" covert path to vue file
